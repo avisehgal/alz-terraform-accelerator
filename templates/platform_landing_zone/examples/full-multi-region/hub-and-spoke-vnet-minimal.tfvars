@@ -18,12 +18,21 @@ Replacements are denoted by the dollar-dollar curly braces token (e.g. $${starte
 You can define the Azure regions to use throughout the configuration.
 The first location will be used as the primary location, the second as the secondary location, and so on.
 */
-starter_locations = ["<region-1>", "<region-2>"]
+starter_locations = ["centralindia", "southindia"]
 
 /*
 --- Custom Replacements ---
 You can define custom replacements to use throughout the configuration.
 */
+
+subscription_ids = {
+  connectivity = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+  identity     = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+  management   = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+  security     = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+}
+
+
 custom_replacements = {
   /*
   --- Custom Name Replacements ---
@@ -56,24 +65,24 @@ custom_replacements = {
     # Resource provisioning primary connectivity
     primary_firewall_enabled                                             = true
     primary_firewall_management_ip_enabled                               = true
-    primary_virtual_network_gateway_express_route_enabled                = true
-    primary_virtual_network_gateway_express_route_hobo_public_ip_enabled = true
+    primary_virtual_network_gateway_express_route_enabled                = false
+    primary_virtual_network_gateway_express_route_hobo_public_ip_enabled = false
     primary_virtual_network_gateway_vpn_enabled                          = true
     primary_private_dns_zones_enabled                                    = true
     primary_private_dns_auto_registration_zone_enabled                   = true
-    primary_private_dns_resolver_enabled                                 = true
-    primary_bastion_enabled                                              = true
+    primary_private_dns_resolver_enabled                                 = false
+    primary_bastion_enabled                                              = false
 
     # Resource provisioning secondary connectivity
     secondary_firewall_enabled                                             = true
     secondary_firewall_management_ip_enabled                               = true
-    secondary_virtual_network_gateway_express_route_enabled                = true
-    secondary_virtual_network_gateway_express_route_hobo_public_ip_enabled = true
+    secondary_virtual_network_gateway_express_route_enabled                = false
+    secondary_virtual_network_gateway_express_route_hobo_public_ip_enabled = false
     secondary_virtual_network_gateway_vpn_enabled                          = true
     secondary_private_dns_zones_enabled                                    = true
     secondary_private_dns_auto_registration_zone_enabled                   = true
-    secondary_private_dns_resolver_enabled                                 = true
-    secondary_bastion_enabled                                              = true
+    secondary_private_dns_resolver_enabled                                 = false
+    secondary_bastion_enabled                                              = false
 
     # IP Ranges Primary
     # Regional Address Space: 10.0.0.0/16
