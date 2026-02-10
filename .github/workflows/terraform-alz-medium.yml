@@ -36,4 +36,4 @@ jobs:
         working-directory: templates/platform_landing_zone
         env:
           ARM_SUBSCRIPTION_ID: ${{ secrets.ARM_SUBSCRIPTION_ID }}
-        run: terraform plan -var-file=examples\full-multi-region\hub-and-spoke-vnet-minimal.tfvars -no-color
+        run: terraform plan -var-file=examples/full-multi-region/hub-and-spoke-vnet-minimal.tfvars -no-color
