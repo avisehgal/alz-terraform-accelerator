@@ -1,0 +1,650 @@
+module.management_groups[0].module.management_groups.data.modtm_module_source.telemetry[0]: Reading...
+module.config.module.regions.data.modtm_module_source.telemetry[0]: Reading...
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.data.modtm_module_source.telemetry[0]: Reading...
+module.management_resources[0].module.management_resources.data.modtm_module_source.telemetry[0]: Reading...
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.management_groups[0].module.management_groups.data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.config.module.regions.data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.management_resources[0].module.management_resources.data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.hub_and_spoke_vnet[0].data.modtm_module_source.telemetry[0]: Reading...
+module.hub_and_spoke_vnet[0].data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.hub_and_spoke_vnet[0].random_uuid.telemetry[0]: Refreshing state... [id=afb125fe-23e9-b828-ba24-1a51712095d7]
+module.config.module.regions.random_uuid.telemetry[0]: Refreshing state... [id=bb61c828-4832-f0bc-fc43-04ba86fb0989]
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.random_uuid.telemetry[0]: Refreshing state... [id=2d382316-197c-a3de-99f0-04c6390d16b2]
+module.management_resources[0].module.management_resources.random_uuid.telemetry[0]: Refreshing state... [id=518440fe-301c-b726-e326-af36cea3de71]
+module.management_groups[0].module.management_groups.random_uuid.telemetry[0]: Refreshing state... [id=d4ca2036-926f-4649-09f9-a8e4596b0ad6]
+module.config.module.regions.data.azapi_client_config.current: Reading...
+module.management_groups[0].module.management_groups.data.azapi_client_config.telemetry[0]: Reading...
+module.config.module.regions.data.azapi_client_config.telemetry[0]: Reading...
+module.management_resources[0].module.management_resources.data.azapi_client_config.current: Reading...
+module.management_groups[0].module.management_groups.data.azapi_client_config.hierarchy_settings: Reading...
+module.management_resources[0].module.management_resources.data.azapi_client_config.telemetry[0]: Reading...
+module.config.module.regions.data.azapi_client_config.current: Still reading... [00m10s elapsed]
+module.config.module.regions.data.azapi_client_config.telemetry[0]: Still reading... [00m10s elapsed]
+module.management_groups[0].module.management_groups.data.azapi_client_config.hierarchy_settings: Still reading... [00m10s elapsed]
+module.management_resources[0].module.management_resources.data.azapi_client_config.current: Still reading... [00m10s elapsed]
+module.management_groups[0].module.management_groups.data.azapi_client_config.telemetry[0]: Still reading... [00m10s elapsed]
+module.management_resources[0].module.management_resources.data.azapi_client_config.telemetry[0]: Still reading... [00m10s elapsed]
+module.config.module.regions.data.azapi_client_config.current: Still reading... [00m20s elapsed]
+module.config.module.regions.data.azapi_client_config.telemetry[0]: Still reading... [00m20s elapsed]
+module.management_groups[0].module.management_groups.data.azapi_client_config.hierarchy_settings: Still reading... [00m20s elapsed]
+module.management_resources[0].module.management_resources.data.azapi_client_config.current: Still reading... [00m20s elapsed]
+module.management_groups[0].module.management_groups.data.azapi_client_config.telemetry[0]: Still reading... [00m20s elapsed]
+module.management_resources[0].module.management_resources.data.azapi_client_config.telemetry[0]: Still reading... [00m20s elapsed]
+module.management_resources[0].module.management_resources.data.azapi_client_config.current: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.management_resources[0].module.management_resources.data.azapi_client_config.telemetry[0]: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.management_groups[0].module.management_groups.data.azapi_client_config.hierarchy_settings: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.config.module.regions.data.azapi_client_config.current: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.management_groups[0].module.management_groups.data.azapi_client_config.telemetry[0]: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.config.module.regions.data.azapi_client_config.telemetry[0]: Read complete after 24s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.data.azapi_client_config.telemetry[0]: Reading...
+module.hub_and_spoke_vnet[0].data.azapi_client_config.telemetry[0]: Reading...
+module.config.module.regions.data.azapi_resource_action.locations[0]: Reading...
+module.config.module.regions.modtm_telemetry.telemetry[0]: Refreshing state... [id=2d63ab65-43d4-42c3-aa00-26b675777e83]
+module.config.module.regions.data.azapi_resource_action.locations[0]: Read complete after 8s [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4]
+module.management_groups[0].module.management_groups.data.alz_metadata.telemetry[0]: Reading...
+module.management_groups[0].module.management_groups.data.alz_metadata.telemetry[0]: Read complete after 0s [id=b1d7ca3a-6534-ff7c-f4fb-161acd00f5a4]
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.data.azapi_client_config.telemetry[0]: Read complete after 8s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.hub_and_spoke_vnet[0].data.azapi_client_config.telemetry[0]: Read complete after 8s [id=clientConfigs/subscriptionId=0ef65ea8-4efb-4e0a-b7b2-b621310187c4;tenantId=f56c9957-47d6-4d2b-9fdb-18137f1837d2]
+module.hub_and_spoke_vnet[0].module.hub_and_spoke_vnet.modtm_telemetry.telemetry[0]: Refreshing state... [id=9c82196e-1b99-41fc-aee5-a2db1c2b690f]
+module.hub_and_spoke_vnet[0].modtm_telemetry.telemetry[0]: Refreshing state... [id=2e759360-df4c-4a38-bedb-42db922caa2c]
+module.config.data.azurerm_client_config.current: Reading...
+module.config.data.azurerm_client_config.current: Read complete after 0s [id=Y2xpZW50Q29uZmlncy9jbGllbnRJZD0wNGIwNzc5NS04ZGRiLTQ2MWEtYmJlZS0wMmY5ZTFiZjdiNDY7b2JqZWN0SWQ9NzZlZDFkZmYtNjg0Yi00MzgyLThlNTUtZGU3ZDdlNTE4MDQyO3N1YnNjcmlwdGlvbklkPTBlZjY1ZWE4LTRlZmItNGUwYS1iN2IyLWI2MjEzMTAxODdjNDt0ZW5hbnRJZD1mNTZjOTk1Ny00N2Q2LTRkMmItOWZkYi0xODEzN2YxODM3ZDI=]
+module.management_resources[0].module.management_resources.modtm_telemetry.telemetry[0]: Refreshing state... [id=3af54b09-97ed-44a0-a249-36f0f0c339f8]
+module.resource_groups["vnet_primary"].random_uuid.telemetry[0]: Refreshing state... [id=7d82d5ec-2331-7cdb-88bb-89b9692b5047]
+module.management_resources[0].module.management_resources.azurerm_resource_group.management[0]: Refreshing state... [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-management-centralindia]
+module.resource_groups["ddos"].data.azurerm_client_config.telemetry[0]: Reading...
+module.resource_groups["vnet_secondary"].data.azurerm_client_config.telemetry[0]: Reading...
+module.resource_groups["vnet_primary"].data.azurerm_client_config.telemetry[0]: Reading...
+module.resource_groups["dns"].data.azurerm_client_config.telemetry[0]: Reading...
+module.resource_groups["dns"].data.azurerm_client_config.telemetry[0]: Read complete after 0s [id=Y2xpZW50Q29uZmlncy9jbGllbnRJZD0wNGIwNzc5NS04ZGRiLTQ2MWEtYmJlZS0wMmY5ZTFiZjdiNDY7b2JqZWN0SWQ9NzZlZDFkZmYtNjg0Yi00MzgyLThlNTUtZGU3ZDdlNTE4MDQyO3N1YnNjcmlwdGlvbklkPTBlZjY1ZWE4LTRlZmItNGUwYS1iN2IyLWI2MjEzMTAxODdjNDt0ZW5hbnRJZD1mNTZjOTk1Ny00N2Q2LTRkMmItOWZkYi0xODEzN2YxODM3ZDI=]
+module.resource_groups["ddos"].data.azurerm_client_config.telemetry[0]: Read complete after 0s [id=Y2xpZW50Q29uZmlncy9jbGllbnRJZD0wNGIwNzc5NS04ZGRiLTQ2MWEtYmJlZS0wMmY5ZTFiZjdiNDY7b2JqZWN0SWQ9NzZlZDFkZmYtNjg0Yi00MzgyLThlNTUtZGU3ZDdlNTE4MDQyO3N1YnNjcmlwdGlvbklkPTBlZjY1ZWE4LTRlZmItNGUwYS1iN2IyLWI2MjEzMTAxODdjNDt0ZW5hbnRJZD1mNTZjOTk1Ny00N2Q2LTRkMmItOWZkYi0xODEzN2YxODM3ZDI=]
+module.resource_groups["vnet_secondary"].data.azurerm_client_config.telemetry[0]: Read complete after 0s [id=Y2xpZW50Q29uZmlncy9jbGllbnRJZD0wNGIwNzc5NS04ZGRiLTQ2MWEtYmJlZS0wMmY5ZTFiZjdiNDY7b2JqZWN0SWQ9NzZlZDFkZmYtNjg0Yi00MzgyLThlNTUtZGU3ZDdlNTE4MDQyO3N1YnNjcmlwdGlvbklkPTBlZjY1ZWE4LTRlZmItNGUwYS1iN2IyLWI2MjEzMTAxODdjNDt0ZW5hbnRJZD1mNTZjOTk1Ny00N2Q2LTRkMmItOWZkYi0xODEzN2YxODM3ZDI=]
+module.resource_groups["vnet_primary"].data.azurerm_client_config.telemetry[0]: Read complete after 0s [id=Y2xpZW50Q29uZmlncy9jbGllbnRJZD0wNGIwNzc5NS04ZGRiLTQ2MWEtYmJlZS0wMmY5ZTFiZjdiNDY7b2JqZWN0SWQ9NzZlZDFkZmYtNjg0Yi00MzgyLThlNTUtZGU3ZDdlNTE4MDQyO3N1YnNjcmlwdGlvbklkPTBlZjY1ZWE4LTRlZmItNGUwYS1iN2IyLWI2MjEzMTAxODdjNDt0ZW5hbnRJZD1mNTZjOTk1Ny00N2Q2LTRkMmItOWZkYi0xODEzN2YxODM3ZDI=]
+module.resource_groups["vnet_secondary"].data.azurerm_subscription.current: Reading...
+module.resource_groups["vnet_primary"].data.azurerm_subscription.current: Reading...
+module.resource_groups["dns"].data.azurerm_subscription.current: Reading...
+module.resource_groups["ddos"].data.azurerm_subscription.current: Reading...
+module.resource_groups["vnet_primary"].data.modtm_module_source.telemetry[0]: Reading...
+module.resource_groups["ddos"].data.modtm_module_source.telemetry[0]: Reading...
+module.resource_groups["vnet_secondary"].data.modtm_module_source.telemetry[0]: Reading...
+module.resource_groups["dns"].data.modtm_module_source.telemetry[0]: Reading...
+module.resource_groups["vnet_primary"].data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.resource_groups["dns"].data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.resource_groups["ddos"].data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.resource_groups["vnet_secondary"].data.modtm_module_source.telemetry[0]: Read complete after 0s
+module.resource_groups["vnet_primary"].modtm_telemetry.telemetry[0]: Refreshing state... [id=6eaeed88-95e1-4f70-9f02-da702cf306ee]
+module.resource_groups["ddos"].data.azurerm_subscription.current: Read complete after 1s [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4]
+module.resource_groups["vnet_secondary"].data.azurerm_subscription.current: Read complete after 1s [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4]
+module.resource_groups["dns"].data.azurerm_subscription.current: Read complete after 1s [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4]
+module.resource_groups["vnet_primary"].data.azurerm_subscription.current: Read complete after 1s [id=/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4]
+
+Terraform used the selected providers to generate the following execution
+plan. Resource actions are indicated with the following symbols:
+  + create
+  ~ update in-place
+
+Terraform planned the following actions, but then encountered a problem:
+
+  # module.resource_groups["ddos"].modtm_telemetry.telemetry[0] will be created
+  + resource "modtm_telemetry" "telemetry" {
+      + ephemeral_number = (known after apply)
+      + id               = (known after apply)
+      + nonce            = (known after apply)
+      + tags             = {
+          + "module_source"   = "registry.terraform.io/Azure/avm-res-resources-resourcegroup/azurerm"
+          + "module_version"  = "0.2.1"
+          + "random_id"       = (known after apply)
+          + "subscription_id" = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+          + "tenant_id"       = "f56c9957-47d6-4d2b-9fdb-18137f1837d2"
+        }
+    }
+
+  # module.resource_groups["ddos"].random_uuid.telemetry[0] will be created
+  + resource "random_uuid" "telemetry" {
+      + id     = (known after apply)
+      + result = (known after apply)
+    }
+
+  # module.resource_groups["dns"].modtm_telemetry.telemetry[0] will be created
+  + resource "modtm_telemetry" "telemetry" {
+      + ephemeral_number = (known after apply)
+      + id               = (known after apply)
+      + nonce            = (known after apply)
+      + tags             = {
+          + "module_source"   = "registry.terraform.io/Azure/avm-res-resources-resourcegroup/azurerm"
+          + "module_version"  = "0.2.1"
+          + "random_id"       = (known after apply)
+          + "subscription_id" = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+          + "tenant_id"       = "f56c9957-47d6-4d2b-9fdb-18137f1837d2"
+        }
+    }
+
+  # module.resource_groups["dns"].random_uuid.telemetry[0] will be created
+  + resource "random_uuid" "telemetry" {
+      + id     = (known after apply)
+      + result = (known after apply)
+    }
+
+  # module.resource_groups["vnet_secondary"].modtm_telemetry.telemetry[0] will be created
+  + resource "modtm_telemetry" "telemetry" {
+      + ephemeral_number = (known after apply)
+      + id               = (known after apply)
+      + nonce            = (known after apply)
+      + tags             = {
+          + "module_source"   = "registry.terraform.io/Azure/avm-res-resources-resourcegroup/azurerm"
+          + "module_version"  = "0.2.1"
+          + "random_id"       = (known after apply)
+          + "subscription_id" = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+          + "tenant_id"       = "f56c9957-47d6-4d2b-9fdb-18137f1837d2"
+        }
+    }
+
+  # module.resource_groups["vnet_secondary"].random_uuid.telemetry[0] will be created
+  + resource "random_uuid" "telemetry" {
+      + id     = (known after apply)
+      + result = (known after apply)
+    }
+
+  # module.management_resources[0].module.management_resources.modtm_telemetry.telemetry[0] will be updated in-place
+  ~ resource "modtm_telemetry" "telemetry" {
+      + ephemeral_number = (known after apply)
+        id               = "3af54b09-97ed-44a0-a249-36f0f0c339f8"
+      + nonce            = (known after apply)
+      ~ tags             = {
+          ~ "location"        = "centralindia" -> "<region-1>"
+            "module_source"   = "registry.terraform.io/Azure/avm-ptn-alz-management/azurerm"
+            "module_version"  = "0.9.0"
+            "random_id"       = "518440fe-301c-b726-e326-af36cea3de71"
+            "subscription_id" = "0ef65ea8-4efb-4e0a-b7b2-b621310187c4"
+            "tenant_id"       = "f56c9957-47d6-4d2b-9fdb-18137f1837d2"
+        }
+    }
+
+Plan: 6 to add, 1 to change, 0 to destroy.
+
+Changes to Outputs:
+  ~ templated_inputs = {
+      ~ connectivity_resource_groups    = {
+          ~ ddos           = {
+              ~ location = "centralindia" -> "<region-1>"
+              ~ name     = "rg-hub-ddos-centralindia" -> "rg-hub-ddos-<region-1>"
+              ~ settings = {
+                  ~ enabled = false -> true
+                }
+                tags     = null
+            }
+          ~ dns            = {
+              ~ location = "centralindia" -> "<region-1>"
+              ~ name     = "rg-hub-dns-centralindia" -> "rg-hub-dns-<region-1>"
+              ~ settings = {
+                  ~ enabled = false -> true
+                }
+                tags     = null
+            }
+          ~ vnet_primary   = {
+              ~ location = "centralindia" -> "<region-1>"
+              ~ name     = "rg-hub-centralindia" -> "rg-hub-<region-1>"
+                tags     = null
+                # (1 unchanged attribute hidden)
+            }
+          + vnet_secondary = {
+              + location = "<region-2>"
+              + name     = "rg-hub-<region-2>"
+              + settings = {
+                  + enabled = "true"
+                }
+              + tags     = null
+            }
+        }
+      ~ hub_and_spoke_networks_settings = {
+          ~ ddos_protection_plan = {
+              ~ location            = "centralindia" -> "<region-1>"
+              ~ name                = "ddos-centralindia" -> "ddos-<region-1>"
+              ~ resource_group_name = "rg-hub-ddos-centralindia" -> "rg-hub-ddos-<region-1>"
+                tags                = null
+            }
+          ~ enabled_resources    = {
+              ~ ddos_protection_plan = false -> true
+            }
+        }
+      ~ hub_virtual_networks            = {
+          ~ primary   = {
+              ~ default_hub_address_space = null -> "10.0.0.0/16"
+              ~ default_parent_id         = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-centralindia" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-<region-1>"
+              ~ enabled_resources         = {
+                  ~ private_dns_zones                     = false -> true
+                    # (6 unchanged attributes hidden)
+                }
+              ~ firewall                  = {
+                  ~ default_ip_configuration                          = {
+                        name             = null
+                      ~ public_ip_config = {
+                          ~ name                = "pip-fw-hub-centralindia" -> null
+                            # (5 unchanged attributes hidden)
+                        }
+                        # (1 unchanged attribute hidden)
+                    }
+                  ~ management_ip_configuration                       = {
+                        name             = null
+                      ~ public_ip_config = {
+                          ~ name                = "pip-fw-hub-mgmt-centralindia" -> null
+                            # (5 unchanged attributes hidden)
+                        }
+                    }
+                  ~ management_subnet_address_prefix                  = "10.2.0.192/26" -> null
+                  ~ name                                              = "fw-hub-centralindia" -> null
+                  ~ subnet_address_prefix                             = "10.2.0.0/26" -> null
+                    tags                                              = null
+                    # (11 unchanged attributes hidden)
+                }
+              ~ firewall_policy           = {
+                  ~ name                              = "fwp-hub-centralindia" -> null
+                    # (15 unchanged attributes hidden)
+                }
+              ~ hub_virtual_network       = {
+                  ~ address_space                    = [
+                      - "10.2.0.0/16",
+                    ] -> null
+                  ~ name                             = "vnet-hub-centralindia" -> null
+                  ~ route_table_name_firewall        = "rt-hub-fw-centralindia" -> null
+                  ~ route_table_name_user_subnets    = "rt-hub-std-centralindia" -> null
+                  ~ routing_address_space            = [
+                      - "10.2.0.0/16",
+                    ]
+                    tags                             = null
+                    # (13 unchanged attributes hidden)
+                }
+              ~ location                  = "centralindia" -> "<region-1>"
+              ~ private_dns_zones         = {
+                  ~ auto_registration_zone_enabled                             = false -> true
+                  ~ auto_registration_zone_name                                = "centralindia.azure.local" -> null
+                  ~ parent_id                                                  = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-dns-centralindia" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-dns-<region-1>"
+                  ~ private_link_private_dns_zones_regex_filter                = {
+                      - enabled      = false
+                      - regex_filter = "{regionName}|{regionCode}"
+                    } -> null
+                    tags                                                       = null
+                    # (12 unchanged attributes hidden)
+                }
+              ~ virtual_network_gateways  = {
+                  ~ express_route                             = {
+                      ~ hosted_on_behalf_of_public_ip_enabled     = false -> true
+                      ~ ip_configurations                         = {
+                          - default = {
+                              - apipa_addresses               = null
+                              - name                          = null
+                              - private_ip_address_allocation = "Dynamic"
+                              - public_ip                     = {
+                                  - allocation_method       = "Static"
+                                  - creation_enabled        = true
+                                  - ddos_protection_mode    = "VirtualNetworkInherited"
+                                  - ddos_protection_plan_id = null
+                                  - domain_name_label       = null
+                                  - edge_zone               = null
+                                  - id                      = null
+                                  - idle_timeout_in_minutes = null
+                                  - ip_tags                 = {}
+                                  - ip_version              = "IPv4"
+                                  - name                    = "pip-vgw-hub-er-centralindia"
+                                  - public_ip_prefix_id     = null
+                                  - resource_group_name     = null
+                                  - reverse_fqdn            = null
+                                  - sku                     = "Standard"
+                                  - sku_tier                = "Regional"
+                                  - tags                    = {}
+                                  - zones                   = null
+                                }
+                            }
+                        }
+                      ~ name                                      = "vgw-hub-er-centralindia" -> null
+                        tags                                      = null
+                        # (8 unchanged attributes hidden)
+                    }
+                  ~ subnet_address_prefix                     = "10.2.0.128/27" -> null
+                  ~ vpn                                       = {
+                      ~ ip_configurations                         = {
+                          ~ active_active_1 = {
+                                name                          = null
+                              ~ public_ip                     = {
+                                    id                      = null
+                                  ~ name                    = "pip-vgw-hub-vpn-centralindia-001" -> null
+                                    tags                    = {}
+                                    # (15 unchanged attributes hidden)
+                                }
+                                # (2 unchanged attributes hidden)
+                            }
+                          ~ active_active_2 = {
+                                name                          = null
+                              ~ public_ip                     = {
+                                    id                      = null
+                                  ~ name                    = "pip-vgw-hub-vpn-centralindia-002" -> null
+                                    tags                    = {}
+                                    # (15 unchanged attributes hidden)
+                                }
+                                # (2 unchanged attributes hidden)
+                            }
+                        }
+                      ~ name                                      = "vgw-hub-vpn-centralindia" -> null
+                        tags                                      = null
+                        # (18 unchanged attributes hidden)
+                    }
+                    # (4 unchanged attributes hidden)
+                }
+                # (2 unchanged attributes hidden)
+            }
+          + secondary = {
+              + bastion                   = {
+                  + bastion_public_ip                      = {
+                      + allocation_method       = "Static"
+                      + ddos_protection_mode    = "VirtualNetworkInherited"
+                      + ddos_protection_plan_id = null
+                      + domain_name_label       = null
+                      + edge_zone               = null
+                      + idle_timeout_in_minutes = 4
+                      + ip_tags                 = {}
+                      + ip_version              = "IPv4"
+                      + name                    = null
+                      + public_ip_prefix_id     = null
+                      + resource_group_name     = null
+                      + reverse_fqdn            = null
+                      + sku                     = "Standard"
+                      + sku_tier                = "Regional"
+                      + tags                    = null
+                      + zones                   = null
+                    }
+                  + copy_paste_enabled                     = false
+                  + file_copy_enabled                      = false
+                  + ip_connect_enabled                     = false
+                  + kerberos_enabled                       = false
+                  + name                                   = null
+                  + resource_group_name                    = null
+                  + scale_units                            = 2
+                  + shareable_link_enabled                 = false
+                  + sku                                    = "Standard"
+                  + subnet_address_prefix                  = null
+                  + subnet_default_outbound_access_enabled = false
+                  + tags                                   = null
+                  + tunneling_enabled                      = false
+                  + zones                                  = null
+                }
+              + default_hub_address_space = "10.1.0.0/16"
+              + default_parent_id         = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-<region-2>"
+              + enabled_resources         = {
+                  + bastion                               = false
+                  + firewall                              = true
+                  + firewall_policy                       = true
+                  + private_dns_resolver                  = false
+                  + private_dns_zones                     = true
+                  + virtual_network_gateway_express_route = false
+                  + virtual_network_gateway_vpn           = true
+                }
+              + firewall                  = {
+                  + default_ip_configuration                          = {
+                      + is_default       = true
+                      + name             = null
+                      + public_ip_config = {
+                          + ip_version          = "IPv4"
+                          + name                = null
+                          + public_ip_prefix_id = null
+                          + resource_group_name = null
+                          + sku_tier            = "Regional"
+                          + zones               = null
+                        }
+                    }
+                  + firewall_policy_id                                = null
+                  + ip_configurations                                 = {}
+                  + management_ip_configuration                       = {
+                      + name             = null
+                      + public_ip_config = {
+                          + ip_version          = "IPv4"
+                          + name                = null
+                          + public_ip_prefix_id = null
+                          + resource_group_name = null
+                          + sku_tier            = "Regional"
+                          + zones               = null
+                        }
+                    }
+                  + management_ip_enabled                             = true
+                  + management_subnet_address_prefix                  = null
+                  + management_subnet_default_outbound_access_enabled = false
+                  + name                                              = null
+                  + private_ip_ranges                                 = null
+                  + resource_group_name                               = null
+                  + sku_name                                          = "AZFW_VNet"
+                  + sku_tier                                          = "Standard"
+                  + subnet_address_prefix                             = null
+                  + subnet_default_outbound_access_enabled            = false
+                  + subnet_route_table_id                             = null
+                  + tags                                              = null
+                  + zones                                             = null
+                }
+              + firewall_policy           = {
+                  + auto_learn_private_ranges_enabled = null
+                  + base_policy_id                    = null
+                  + dns                               = null
+                  + explicit_proxy                    = null
+                  + identity                          = null
+                  + insights                          = null
+                  + intrusion_detection               = null
+                  + location                          = null
+                  + name                              = null
+                  + private_ip_ranges                 = null
+                  + resource_group_name               = null
+                  + sku                               = "Standard"
+                  + sql_redirect_allowed              = false
+                  + threat_intelligence_allowlist     = null
+                  + threat_intelligence_mode          = "Alert"
+                  + tls_certificate                   = null
+                }
+              + hub_virtual_network       = {
+                  + address_space                    = null
+                  + bgp_community                    = null
+                  + ddos_protection_plan_id          = null
+                  + dns_servers                      = null
+                  + flow_timeout_in_minutes          = 4
+                  + hub_router_ip_address            = null
+                  + mesh_peering_enabled             = true
+                  + name                             = null
+                  + parent_id                        = null
+                  + peering_names                    = null
+                  + route_table_entries_firewall     = []
+                  + route_table_entries_user_subnets = []
+                  + route_table_firewall_enabled     = true
+                  + route_table_name_firewall        = null
+                  + route_table_name_user_subnets    = null
+                  + route_table_user_subnets_enabled = true
+                  + routing_address_space            = []
+                  + subnets                          = {}
+                  + tags                             = null
+                }
+              + location                  = "<region-2>"
+              + private_dns_resolver      = {
+                  + default_inbound_endpoint_enabled       = true
+                  + inbound_endpoints                      = {}
+                  + ip_address                             = null
+                  + name                                   = null
+                  + outbound_endpoints                     = {}
+                  + resource_group_name                    = null
+                  + subnet_address_prefix                  = null
+                  + subnet_default_outbound_access_enabled = false
+                  + subnet_name                            = "dns-resolver"
+                  + tags                                   = null
+                }
+              + private_dns_zones         = {
+                  + auto_registration_zone_enabled                             = true
+                  + auto_registration_zone_name                                = null
+                  + auto_registration_zone_parent_id                           = null
+                  + parent_id                                                  = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourceGroups/rg-hub-dns-<region-1>"
+                  + private_link_excluded_zones                                = []
+                  + private_link_private_dns_zones                             = null
+                  + private_link_private_dns_zones_additional                  = null
+                  + private_link_private_dns_zones_regex_filter                = null
+                  + tags                                                       = null
+                  + virtual_network_link_additional_virtual_networks           = null
+                  + virtual_network_link_by_zone_and_virtual_network           = null
+                  + virtual_network_link_default_virtual_networks              = null
+                  + virtual_network_link_name_template                         = null
+                  + virtual_network_link_overrides_by_virtual_network          = null
+                  + virtual_network_link_overrides_by_zone                     = null
+                  + virtual_network_link_overrides_by_zone_and_virtual_network = null
+                  + virtual_network_link_resolution_policy_default             = null
+                }
+              + virtual_network_gateways  = {
+                  + express_route                             = {
+                      + edge_zone                                 = null
+                      + express_route_circuits                    = null
+                      + express_route_remote_vnet_traffic_enabled = false
+                      + express_route_virtual_wan_traffic_enabled = false
+                      + hosted_on_behalf_of_public_ip_enabled     = true
+                      + ip_configurations                         = {}
+                      + local_network_gateways                    = null
+                      + name                                      = null
+                      + parent_id                                 = null
+                      + sku                                       = null
+                      + tags                                      = null
+                      + vpn_type                                  = "RouteBased"
+                    }
+                  + route_table_bgp_route_propagation_enabled = false
+                  + route_table_creation_enabled              = false
+                  + route_table_name                          = null
+                  + subnet_address_prefix                     = null
+                  + subnet_default_outbound_access_enabled    = false
+                  + vpn                                       = {
+                      + edge_zone                                 = null
+                      + hosted_on_behalf_of_public_ip_enabled     = false
+                      + ip_configurations                         = {
+                          + active_active_1 = {
+                              + apipa_addresses               = null
+                              + name                          = null
+                              + private_ip_address_allocation = "Dynamic"
+                              + public_ip                     = {
+                                  + allocation_method       = "Static"
+                                  + creation_enabled        = true
+                                  + ddos_protection_mode    = "VirtualNetworkInherited"
+                                  + ddos_protection_plan_id = null
+                                  + domain_name_label       = null
+                                  + edge_zone               = null
+                                  + id                      = null
+                                  + idle_timeout_in_minutes = null
+                                  + ip_tags                 = {}
+                                  + ip_version              = "IPv4"
+                                  + name                    = null
+                                  + public_ip_prefix_id     = null
+                                  + resource_group_name     = null
+                                  + reverse_fqdn            = null
+                                  + sku                     = "Standard"
+                                  + sku_tier                = "Regional"
+                                  + tags                    = {}
+                                  + zones                   = null
+                                }
+                            }
+                          + active_active_2 = {
+                              + apipa_addresses               = null
+                              + name                          = null
+                              + private_ip_address_allocation = "Dynamic"
+                              + public_ip                     = {
+                                  + allocation_method       = "Static"
+                                  + creation_enabled        = true
+                                  + ddos_protection_mode    = "VirtualNetworkInherited"
+                                  + ddos_protection_plan_id = null
+                                  + domain_name_label       = null
+                                  + edge_zone               = null
+                                  + id                      = null
+                                  + idle_timeout_in_minutes = null
+                                  + ip_tags                 = {}
+                                  + ip_version              = "IPv4"
+                                  + name                    = null
+                                  + public_ip_prefix_id     = null
+                                  + resource_group_name     = null
+                                  + reverse_fqdn            = null
+                                  + sku                     = "Standard"
+                                  + sku_tier                = "Regional"
+                                  + tags                    = {}
+                                  + zones                   = null
+                                }
+                            }
+                        }
+                      + local_network_gateways                    = null
+                      + name                                      = null
+                      + parent_id                                 = null
+                      + sku                                       = "VpnGw1AZ"
+                      + tags                                      = null
+                      + vpn_active_active_enabled                 = true
+                      + vpn_bgp_enabled                           = false
+                      + vpn_bgp_route_translation_for_nat_enabled = false
+                      + vpn_bgp_settings                          = null
+                      + vpn_custom_route                          = null
+                      + vpn_default_local_network_gateway_id      = null
+                      + vpn_dns_forwarding_enabled                = false
+                      + vpn_generation                            = null
+                      + vpn_ip_sec_replay_protection_enabled      = true
+                      + vpn_point_to_site                         = null
+                      + vpn_policy_groups                         = null
+                      + vpn_private_ip_address_enabled            = false
+                      + vpn_type                                  = null
+                    }
+                }
+            }
+        }
+      ~ management_group_settings       = {
+          ~ location                                                      = "centralindia" -> "<region-1>"
+          ~ policy_assignments_to_modify                                  = {
+              ~ alz = {
+                  ~ policy_assignments = {
+                      ~ Deploy-MDFC-Config-H224 = {
+                          + parameters = {
+                              + ascExportResourceGroupLocation              = "<region-1>"
+                              + ascExportResourceGroupName                  = "rg-asc-export-<region-1>"
+                              + emailSecurityContact                        = "replace_me@replace_me.com"
+                              + enableAscForAppServices                     = "DeployIfNotExists"
+                              + enableAscForArm                             = "DeployIfNotExists"
+                              + enableAscForContainers                      = "DeployIfNotExists"
+                              + enableAscForCosmosDbs                       = "DeployIfNotExists"
+                              + enableAscForCspm                            = "DeployIfNotExists"
+                              + enableAscForKeyVault                        = "DeployIfNotExists"
+                              + enableAscForOssDb                           = "DeployIfNotExists"
+                              + enableAscForServers                         = "DeployIfNotExists"
+                              + enableAscForServersVulnerabilityAssessments = "DeployIfNotExists"
+                              + enableAscForSql                             = "DeployIfNotExists"
+                              + enableAscForSqlOnVm                         = "DeployIfNotExists"
+                              + enableAscForStorage                         = "DeployIfNotExists"
+                            }
+                        }
+                    }
+                }
+            }
+          ~ policy_default_values                                         = {
+              ~ ama_change_tracking_data_collection_rule_id = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-centralindia/providers/Microsoft.Insights/dataCollectionRules/dcr-change-tracking" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-<region-1>/providers/Microsoft.Insights/dataCollectionRules/dcr-change-tracking"
+              ~ ama_mdfc_sql_data_collection_rule_id        = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-centralindia/providers/Microsoft.Insights/dataCollectionRules/dcr-defender-sql" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-<region-1>/providers/Microsoft.Insights/dataCollectionRules/dcr-defender-sql"
+              ~ ama_user_assigned_managed_identity_id       = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-centralindia/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uami-management-ama-centralindia" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-<region-1>/providers/Microsoft.ManagedIdentity/userAssignedIdentities/uami-management-ama-<region-1>"
+              ~ ama_user_assigned_managed_identity_name     = "uami-management-ama-centralindia" -> "uami-management-ama-<region-1>"
+              ~ ama_vm_insights_data_collection_rule_id     = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-centralindia/providers/Microsoft.Insights/dataCollectionRules/dcr-vm-insights" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-<region-1>/providers/Microsoft.Insights/dataCollectionRules/dcr-vm-insights"
+              ~ ddos_protection_plan_id                     = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-hub-ddos-centralindia/providers/Microsoft.Network/ddosProtectionPlans/ddos-centralindia" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-hub-ddos-<region-1>/providers/Microsoft.Network/ddosProtectionPlans/ddos-<region-1>"
+              ~ log_analytics_workspace_id                  = "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-centralindia/providers/Microsoft.OperationalInsights/workspaces/law-management-centralindia" -> "/subscriptions/0ef65ea8-4efb-4e0a-b7b2-b621310187c4/resourcegroups/rg-management-<region-1>/providers/Microsoft.OperationalInsights/workspaces/law-management-<region-1>"
+              ~ private_dns_zone_region                     = "centralindia" -> "<region-1>"
+              ~ private_dns_zone_resource_group_name        = "rg-hub-dns-centralindia" -> "rg-hub-dns-<region-1>"
+                # (1 unchanged attribute hidden)
+            }
+            # (14 unchanged attributes hidden)
+        }
+      ~ management_resource_settings    = {
+          ~ location                                                   = "centralindia" -> "<region-1>"
+          ~ log_analytics_workspace_name                               = "law-management-centralindia" -> "law-management-<region-1>"
+          ~ resource_group_name                                        = "rg-management-centralindia" -> "rg-management-<region-1>"
+            tags                                                       = null
+          ~ user_assigned_managed_identities                           = {
+              ~ ama = {
+                  ~ name     = "uami-management-ama-centralindia" -> "uami-management-ama-<region-1>"
+                    tags     = null
+                    # (2 unchanged attributes hidden)
+                }
+            }
+            # (14 unchanged attributes hidden)
+        }
+        tags                            = {
+            deployed_by = "terraform"
+            source      = "Azure Landing Zones Accelerator"
+        }
+        # (3 unchanged attributes hidden)
+    }
